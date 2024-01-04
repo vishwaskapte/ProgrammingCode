@@ -16,3 +16,9 @@ Console.WriteLine($" ");
 // Sum of N Natural Numbers
 SumOfNaturalNumbers sm = new SumOfNaturalNumbers();
 Console.WriteLine($"Sum of N Natural Number is = > {sm.SumOfNumbers(4)} ");
+Console.WriteLine($" ");
+
+// Find a Perfect Square Root
+PerfectSquareRoot sqrt = new PerfectSquareRoot();
+Console.WriteLine($"Perfect Square Root Number is = > {sqrt.SquareRoot(36)} ");
+Console.WriteLine($" ");
